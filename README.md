@@ -4,6 +4,8 @@ Welcome to the official repository for the study focused on classification of ea
 
 Web Server: https://webs.iiitd.edu.in/raghava/cancerlsp/
 
+ZENODO : https://doi.org/10.5281/zenodo.20096356
+
 ---
 
 ## Citation
